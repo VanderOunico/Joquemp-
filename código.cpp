@@ -27,9 +27,10 @@ void jogar_joquempo() {
     printf("Bem-vindo ao jogo de Joquempô!\n");
     printf("Quantas rodadas você quer jogar? ");
     scanf("%d", &rodadas);
-	printf("\nDeseja exibir o que o computador escolheu?\nSim = 1\nNão = 2\nEscolha: ");
+	printf("Deseja exibir o que o computador escolheu?\nSim = 1 \nQualquer outro para não\n Escolha:" );
     scanf("%d", &exibir);
-    srand(time(NULL)); // Inicializa o gerador de números aleatórios
+	
+    srand(time(NULL)); // Inicializa o 	gerador de números aleatórios
 
     for (int i = 1; i <= rodadas; i++) {
         printf("\nRodada %d:\n", i);
