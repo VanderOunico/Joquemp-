@@ -8,9 +8,9 @@
 
 ### Código E C com todas a funções necessárias
 
+<div style="display: inline_block">
+  
+  <img align="center" alt="ts" src="    https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</div><br/>
 
-dentro do codigo.cpp
-
-
-
-
+💻 código com todas as funções dentro do "código.cpp"
